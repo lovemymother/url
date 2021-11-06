@@ -1,0 +1,7 @@
+{
+    "name": "URL Shortener PHP",
+    "description": "Script PHP untuk membuat short link dengan mudah tanpa databse",
+    "repository": "https://u.raz.my.id",
+    "logo": "https://mirror-my-url.herokuapp.com/assets/img/icon/android-chrome-512x512.png",
+    "keywords": ["PHP"]
+  }
